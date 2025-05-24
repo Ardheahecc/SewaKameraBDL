@@ -1,5 +1,5 @@
 <div>
-    <h1>KELOMPOK 8 KELAS D SEMESTER ^</h1>
+    <h1>KELOMPOK 8 KELAS D SEMESTER</h1>
     <h2>Implementasi dan Evaluasi Sistem Informasi</h2>
 </div>
 <div>
